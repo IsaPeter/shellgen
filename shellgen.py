@@ -210,8 +210,10 @@ def main():
         #sh.list_shells()
     
     if is_listen:
+        print("[*] Starting Netcat listener..")
         sh.listen()
     if is_connect:
+        print("[*] Connect to the target..")
         sh.connect()
         
     

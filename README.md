@@ -29,7 +29,7 @@ $ python3 shellgen.py -s reverse_python --lhost 10.10.10.10 --lport 9001
 
 
 
-**Listening address**
+**Listening on address**
 
 After creating a payload, the module will help you to listen on the specified address and port, and catch the incoming shell.
 
