@@ -13,7 +13,7 @@ Listing the available shells in the module.
 
 Create a Reverse Python payload and set the **lhost** and **lport** values.
 
-![](.img/create payload.png)
+![](.img/create_payload.png)
 
 
 
